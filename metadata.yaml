@@ -1,10 +1,16 @@
 _repo: The-Complete-Herbal-To-which-is-now-added-upwards-of-one-hundred-additional-herbs-with-a-disp__49513
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49513-h/images/cover.jpg
 creator:
   author:
     agent_name: Culpeper, Nicholas
     gutenberg_agent_id: '45377'
     url: http://www.gutenberg.org/2009/agents/45377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49513#The-Complete-Herbal-To-which-is-now-added-upwards-of-one-hundred-additional-herbs-with-a-disp_
 gutenberg_issued: '2015-07-24'
 gutenberg_type: Text
 identifiers:
